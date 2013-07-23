@@ -1,0 +1,14 @@
+{
+	"auto_match_enabled": false,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended Bright.tmTheme",
+	"font_face": "lemon",
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Refined-Dark.sublime-theme",
+	"update_check": false
+}
